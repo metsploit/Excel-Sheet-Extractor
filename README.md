@@ -106,8 +106,9 @@ You can:
 - Rename output files
 - Review everything before extraction
 
-![Select Sheets]([YOUR_IMAGE_LINK_HERE](https://github.com/metsploit/Excel-Sheet-Extractor/blob/main/Screenshot%202026-06-20%20145226.png))
-
+<p align="center">
+<img src="https://github.com/metsploit/Excel-Sheet-Extractor/blob/main/Screenshot%202026-06-20%20145226.png" width="900">
+</p>
 ---
 
 ## 3️⃣ Extract
@@ -116,7 +117,9 @@ Click **OK** and let the tool generate all standalone workbooks automatically.
 
 Every exported file is saved in the selected folder.
 
-![Extraction Complete]([YOUR_IMAGE_LINK_HERE](https://github.com/metsploit/Excel-Sheet-Extractor/blob/main/Screenshot%202026-06-20%20145319.png))
+<p align="center">
+<img src="https://github.com/metsploit/Excel-Sheet-Extractor/blob/main/Screenshot%202026-06-20%20145319.png" width="900">
+</p>
 
 ---
 
