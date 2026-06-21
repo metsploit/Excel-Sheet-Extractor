@@ -128,7 +128,7 @@ Every exported file is saved in the selected folder.
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/excel-sheet-extractor.git
+git clone https://github.com/metsploit/Excel-Sheet-Extractor.git
 ```
 
 Go inside the project
