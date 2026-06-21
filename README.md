@@ -89,7 +89,9 @@ The tool automatically creates separate Excel files for every selected worksheet
 
 Choose any Excel workbook using the built-in file picker.
 
-![Select Workbook]([YOUR_IMAGE_LINK_HERE](https://github.com/metsploit/Excel-Sheet-Extractor/blob/main/Screenshot%202026-06-20%20143654.png))
+<p align="center">
+<img src="https://github.com/metsploit/Excel-Sheet-Extractor/blob/main/Screenshot%202026-06-20%20143654.png" width="900">
+</p>
 
 ---
 
